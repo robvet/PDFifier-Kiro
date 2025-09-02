@@ -1,3 +1,7 @@
 # Add your dependencies here
 fastapi
 uvicorn
+requests
+beautifulsoup4
+fpdf
+python-dotenv
